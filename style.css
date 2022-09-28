@@ -689,11 +689,11 @@ footer span#year {
     height: 100%;
     background-image: url(test4.svg);
     background-repeat: no-repeat;
-    background-size: 700px;
+    background-size: 900px;
     position: absolute;
     transform: translateY(2rem);
     top: 0;
-    left: -80%;
+    left: -90%;
   }
 
 
